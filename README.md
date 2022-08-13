@@ -21,11 +21,11 @@
 ## 🎱 - Help :
 ```cs
 
-C:\Users\Bidouffe\Desktop\Ziper>Ziper.py -h
+C:\Users\Sshinx\Desktop\Ziper>Ziper.py -h
 
   usage: Ziper.py [-h] [-f F] [-l L]
 
-  Ziper cracker [Bidouffe]
+  Ziper cracker [Sshinx]
 
   optional arguments:
     -h, --help  show this help message and exit
@@ -52,8 +52,8 @@ C:\Users\Bidouffe\Desktop\Ziper>Ziper.py -h
 #
 
 <p align="center"> 
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Bidouffe/Ziper">
-  <img alt="star" src="https://img.shields.io/github/stars/Bidouffe/Ziper">
-  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/Ziper">
-  <img alt="license" src="https://img.shields.io/github/license/Bidouffe/Ziper">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Sshinx/Keyllogs">
+  <img alt="star" src="https://img.shields.io/github/stars/Sshinx/Keyllogs">
+  <img alt="commit" src="https://img.shields.io/github/last-commit/Sshinx/Keyllogs">
+  <img alt="license" src="https://img.shields.io/github/license/Sshinx/Keyllogs">
 </p>
