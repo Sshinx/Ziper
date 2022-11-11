@@ -8,7 +8,7 @@ from pyfade import Colors, Fade, Anime  #https://github.com/billythegoat356/pyst
 
 class Ziper():
     def __init__(self):
-        self.parser = argparse.ArgumentParser(description="Ziper cracker [Bidouffe]")
+        self.parser = argparse.ArgumentParser(description="Ziper cracker [Sshinx]")
         self.parser.add_argument('-f', help='path of zipfile')
         self.parser.add_argument('-l', help='path of pass list')
         self.args = self.parser.parse_args()
@@ -34,7 +34,7 @@ class Ziper():
         print(Fade.Vertical(Colors.green_to_yellow, ziper_brand))
 
     def choice(self):
-        os.system('title Ziper [github.com/Bidouffe]')
+        os.system('title Ziper [github.com/Sshinx]')
 
         """
         bruter = None
