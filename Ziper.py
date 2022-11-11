@@ -29,7 +29,7 @@ class Ziper():
         ziper_brand = f'''
     ╔═╗┬┌─┐┌─┐╦═╗
     ╔═╝│├─┘├┤ ╠╦╝
-    ╚═╝┴┴  └─┘╩╚═  {Fore.RESET}[github.com/{Fore.YELLOW}Bidouffe{Fore.RESET}]
+    ╚═╝┴┴  └─┘╩╚═  {Fore.RESET}[github.com/{Fore.YELLOW}Sshinx{Fore.RESET}]
         '''
         print(Fade.Vertical(Colors.green_to_yellow, ziper_brand))
 
